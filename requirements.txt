@@ -1,0 +1,7 @@
+web3
+multicall
+discord.py
+python-dotenv
+web3-multi-provider
+
+t
